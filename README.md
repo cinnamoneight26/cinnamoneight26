@@ -1,11 +1,9 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=header&text=Welcome&fontSize=30&animation=fadeIn&fontAlign=10)
- 
-        
+![header](https://capsule-render.vercel.app/api?type=waving&color=d6c4a7&height=100&section=header&text=Welcome&fontSize=30&animation=fadeIn&fontAlign=10&fontColor=ffffff&reversal=true
+)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cinnamoneight26)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cinnamoneight26&show_icons=true&theme=kacho_ga)
 
   
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
