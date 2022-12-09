@@ -12,6 +12,8 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/KONVA-0D83CD?style=flat-square&logo=Konva&logoColor=white"/>
 <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white" />
+
 <br>
 <br>
 백지의 문서 위에 View를 구현하는 것이 재미있는 사람<br>
