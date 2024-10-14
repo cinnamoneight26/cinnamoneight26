@@ -16,9 +16,9 @@
 
 <br>
 <br>
-백지의 문서 위에 View를 구현하는 것이 재미있는 사람<br>
-'만드는 것'을 넘어 '더 잘 만드는 것'에 대해 고민합니다.<br>
-Frontend와 Backend 영역을 넘나들며 디바이스 안의 세계를 가꾸어나가는 것이 목표입니다.<br><br>
+I am a person who enjoys implementing views on a blank document.<br>
+I constantly think about how to go beyond just "making" to "making better."<br> 
+My goal is to cultivate the world within devices by navigating both frontend and backend areas.<br><br>
 
   📫 cinnamon.eight26@gmail.com<br><br>
   
