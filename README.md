@@ -16,7 +16,7 @@ I am a person who enjoys implementing views on a blank document. I constantly th
 <div align="left" dir="auto">
 
 * 🌍  I'm based in Missouri
-* 🖥️  See my portfolio at [This is the part that is making my head the most complicated these days. Unfinished.](http://ineeth.com/about/)
+<!-- * 🖥️  See my portfolio at [This is the part that is making my head the most complicated these days. Unfinished.](http://ineeth.com/about/) -->
 * ✉️  You can contact me at [ineeth81@gmail.com](mailto:ineeth81@gmail.com)
 * 🧠  I'm learning I am taking the Google UX Design course on Coursera.
 * 🤝  I'm open to collaborating on I enjoy crafting digital solutions through web and mobile apps, with a focus on practical tools for day-to-day challenges. I’m especially excited about building e-book viewers and learning aids.
