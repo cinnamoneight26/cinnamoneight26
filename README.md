@@ -15,7 +15,7 @@ I am a person who enjoys implementing views on a blank document. I constantly th
 
 <div align="left" dir="auto">
 
-* 🌍  I'm based in Missouri
+* 🌍  I'm based in South Korea.
 <!-- * 🖥️  See my portfolio at [This is the part that is making my head the most complicated these days. Unfinished.](http://ineeth.com/about/) -->
 * ✉️  You can contact me at [ineeth81@gmail.com](mailto:ineeth81@gmail.com)
 * 🧠  I'm learning I am taking the Google UX Design course on Coursera.
