@@ -18,7 +18,7 @@
 <p>🌱 현재 탐구 중인 분야</p>
   
 * 최근 Flutter와 Dart를 활용한 모바일 앱 개발에 도전하고 있어요.
-* 단어장 앱, 생산성 도구 앱 개발에 집중하고 있어요.
+* 단어장 앱, 생산성 도구 앱 개발에 주력하고 있어요.
 <!-- * 🖥️  See my portfolio at [This is the part that is making my head the most complicated these days. Unfinished.](http://ineeth.com/about/) -->
 
 </div>
