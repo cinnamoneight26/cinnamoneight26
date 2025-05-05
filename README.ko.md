@@ -23,8 +23,8 @@
 <!-- * 🖥️  See my portfolio at [This is the part that is making my head the most complicated these days. Unfinished.](http://ineeth.com/about/) -->
 
 </div>
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-</p>
+
+</br></br>
 
 <div align="left" dir="auto">
 <p>💡 저는 이런 걸 좋아합니다.</p>
@@ -35,16 +35,20 @@
 
 </div>
 
+</br></br>
+
 <div align="left" dir="auto">
 <p>📬 연락처</p>
   
-* ✉️  이메일 [ineeth81@gmail.com](mailto:ineeth81@gmail.com)
+* 이메일 [ineeth81@gmail.com](mailto:ineeth81@gmail.com)
 </div>
+
+</br></br>
 
 <div align="left" dir="auto">
 <p>🛠️ 기술 스택</p>
   
-*프론트엔드**
+* 프론트엔드
   * JavaScript, HTML5, CSS3, Vue.js (Vue2), React, jQuery, Bootstrap, Vite
 
 * 모바일
@@ -58,6 +62,8 @@
 
 </div>
 
+</br></br>
+
 <div align="left" dir="auto">
 <p>🎨 취미와 관심사</p>
   
@@ -65,6 +71,7 @@
 
 </div>
 
+</br></br>
 
 -------------------------------------------------------------
 
