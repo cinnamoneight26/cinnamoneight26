@@ -6,20 +6,20 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=653714&center=true&width=1200&height=100&lines=I+Create+Because+I+Want+to+Solve+Real+Problems+%E2%80%94+++Welcome+to+My+Digital+Playground!+%F0%9F%94%A7%E2%9C%A8)](https://git.io/typing-svg)
 
-저는 모바일 앱 개발에 점점 더 큰 흥미를 가지고 있는 프론트엔드 개발자입니다. </br>
-깔끔하고 사용하기 쉬운 인터페이스를 만드는 것을 좋아하며, </br> 
-어학 학습, 교육용 실용 앱과 같은 일상 속 문제를 해결할 수 있는 도구들을 개발하는 데 열정을 가지고 있습니다.
-
+저는 프론트엔드 개발자로서 모바일 앱 개발에 점점 더 큰 흥미를 가지고 있습니다. </br>
+깔끔하고 직관적인 사용자 인터페이스를 만드는 것을 즐기며, </br>
+어학 학습, 교육, 생산성 향상을 위한 실용적인 앱을 통해 </br>
+일상 속 문제를 해결하는 데 집중하고 있습니다.
 </div>
 
 -------------------------------------------------------------
 
 <div align="left" dir="auto">
-<p>🌱 현재 하고 있는 일</p>
+<p>🌱 현재 집중하는 분야</p>
   
-* 🌍  🇰🇷 대한민국에 거주 중입니다.
-* 📱 최근 Flutter와 Dart를 공부하며 크로스 플랫폼 모바일 앱 개발에 도전하고 있어요.
-* 🎯 단어장 앱, 생산성 도구 앱 개발에 집중하고 있어요.
+* 🇰🇷 대한민국에 거주 중입니다.
+* 최근 Flutter와 Dart를 활용한 모바일 앱 개발에 도전하고 있어요.
+* 단어장 앱, 생산성 도구 앱 개발에 집중하고 있어요.
 <!-- * 🖥️  See my portfolio at [This is the part that is making my head the most complicated these days. Unfinished.](http://ineeth.com/about/) -->
 
 </div>
@@ -44,14 +44,14 @@
 <div align="left" dir="auto">
 <p>🛠️ 기술 스택</p>
   
-* 프론트엔드
+*프론트엔드**
   * JavaScript, HTML5, CSS3, Vue.js (Vue2), React, jQuery, Bootstrap, Vite
 
 * 모바일
   * Flutter, Dart
 
 * 백엔드 및 데이터베이스
-  * (Node.js는 학습 중입니다) Oracle, MySQL, PostgreSQL, MongoDB
+  * Java, Oracle, MySQL, PostgreSQL, MongoDB
 
 * 도구 및 플랫폼
   * Git, VS Code, Figma, Google Cloud, Docker, Photoshop, MacOS
@@ -59,7 +59,7 @@
 </div>
 
 <div align="left" dir="auto">
-<p>⚡ TMI</p>
+<p>🎨 취미와 관심사</p>
   
 * 판타지 소설 읽기, 자연 소리를 들으며 산책하기, 새로운 디지털 세계를 상상하며 즐기는 걸 좋아합니다.
 
