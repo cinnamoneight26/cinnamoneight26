@@ -5,25 +5,75 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Minhee Kim
 ==================================================================================================================================
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&pause=1000&color=FF5757&center=true&vCenter=true&width=800&lines=I+Code+Because+I+Need+This!+Welcome+to+My+Digital+Playground!+%F0%9F%9B%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=653714&center=true&width=1200&height=100&lines=I+Create+Because+I+Want+to+Solve+Real+Problems+%E2%80%94+++Welcome+to+My+Digital+Playground!+%F0%9F%94%A7%E2%9C%A8)](https://git.io/typing-svg)
 
 -------------------------------------------------------------
 
-I am a person who enjoys implementing views on a blank document. I constantly think about how to go beyond just "making" to "making better." My goal is to cultivate the world within devices by navigating both frontend and backend areas.
+As a frontend developer, I’ve been growing increasingly passionate about mobile app development.  
+I enjoy designing clean, intuitive user interfaces that solve everyday problems—  
+especially in the areas of language learning, education, and productivity.  
+I'm committed to building practical applications that can make a real impact.
 
 </div>
 
 -------------------------------------------------------------
 
 <div align="left" dir="auto">
+<p>🌱 Areas I'm Currently Exploring</p>
 
-* 🌍  I'm based in South Korea.
-<!-- * 🖥️  See my portfolio at [This is the part that is making my head the most complicated these days. Unfinished.](http://ineeth.com/about/) -->
-* ✉️  You can contact me at [ineeth81@gmail.com](mailto:ineeth81@gmail.com)
-* 🧠  I'm learning I am taking the Google UX Design course on Coursera.
-* 🤝  I'm open to collaborating on I enjoy crafting digital solutions through web and mobile apps, with a focus on practical tools for day-to-day challenges. I’m especially excited about building e-book viewers and learning aids.
-* ⚡  I like to read fantasy novels, run around listening to the sounds of nature, and explore strange worlds.
+* Diving into mobile app development using Flutter and Dart.  
+* Focusing on building vocabulary tools and productivity-enhancing apps.
+
 </div>
+
+</br>
+<div align="left" dir="auto">
+<p>💡 What I Love to Do</p>
+
+* Turning ideas into interactive web and mobile experiences.  
+* Designing better digital tools grounded in UX principles.  
+* Crafting clean, accessible interfaces that solve real-world problems.
+
+</div>
+
+</br>
+
+<div align="left" dir="auto">
+<p>📬 Get in Touch</p>
+
+* Email: [ineeth81@gmail.com](mailto:ineeth81@gmail.com)
+
+</div>
+
+</br>
+
+<div align="left" dir="auto">
+<p>🛠️ Tech Stack</p>
+
+* **Frontend**  
+  * JavaScript, HTML5, CSS3, Vue.js (Vue2), React, jQuery, Bootstrap, Vite
+
+* **Mobile**  
+  * Flutter, Dart
+
+* **Backend & Databases**  
+  * Java, Oracle, MySQL, PostgreSQL, MongoDB
+
+* **Tools & Platforms**  
+  * Git, VS Code, Figma, Google Cloud, Docker, Photoshop, MacOS
+
+</div>
+
+</br>
+
+<div align="left" dir="auto">
+<p>🎨 Hobbies & Interests</p>
+
+* Reading fantasy novels, walking while listening to nature sounds,  
+  and imagining new digital worlds.
+
+</div>
+</br>
 
 -------------------------------------------------------------
 
