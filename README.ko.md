@@ -15,16 +15,15 @@
 -------------------------------------------------------------
 
 <div align="left" dir="auto">
-<p>🌱 현재 집중하는 분야</p>
+<p>🌱 현재 탐구 중인 분야</p>
   
-* 🇰🇷 대한민국에 거주 중입니다.
 * 최근 Flutter와 Dart를 활용한 모바일 앱 개발에 도전하고 있어요.
 * 단어장 앱, 생산성 도구 앱 개발에 집중하고 있어요.
 <!-- * 🖥️  See my portfolio at [This is the part that is making my head the most complicated these days. Unfinished.](http://ineeth.com/about/) -->
 
 </div>
 
-</br></br>
+</br>
 
 <div align="left" dir="auto">
 <p>💡 저는 이런 걸 좋아합니다.</p>
@@ -35,7 +34,7 @@
 
 </div>
 
-</br></br>
+</br>
 
 <div align="left" dir="auto">
 <p>📬 연락처</p>
@@ -43,7 +42,7 @@
 * 이메일 [ineeth81@gmail.com](mailto:ineeth81@gmail.com)
 </div>
 
-</br></br>
+</br>
 
 <div align="left" dir="auto">
 <p>🛠️ 기술 스택</p>
@@ -62,7 +61,7 @@
 
 </div>
 
-</br></br>
+</br>
 
 <div align="left" dir="auto">
 <p>🎨 취미와 관심사</p>
@@ -71,7 +70,7 @@
 
 </div>
 
-</br></br>
+</br>
 
 -------------------------------------------------------------
 
