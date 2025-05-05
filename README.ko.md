@@ -1,7 +1,7 @@
 [🇺🇸 English](./README.md) | [🇰🇷 한국어]
 <div align="center" dir="auto">
   
-안녕하세요 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)김민희입니다.
+안녕하세요! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)김민희입니다.
 ==================================================================================================================================
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=653714&center=true&width=1200&height=100&lines=I+Create+Because+I+Want+to+Solve+Real+Problems+%E2%80%94+++Welcome+to+My+Digital+Playground!+%F0%9F%94%A7%E2%9C%A8)](https://git.io/typing-svg)
