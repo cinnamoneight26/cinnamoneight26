@@ -1,3 +1,4 @@
+[🇺🇸 English](./README.md) | [🇰🇷 한국어]
 <div align="center" dir="auto">
   
 안녕하세요 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)김민희입니다.
