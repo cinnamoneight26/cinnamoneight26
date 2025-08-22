@@ -9,10 +9,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 -------------------------------------------------------------
 
-As a frontend developer, I’ve been growing increasingly passionate about mobile app development.  
-I enjoy designing clean, intuitive user interfaces that solve everyday problems—  
+As a technical support engineer at a global company,  
+I'm currently focused on learning **Azure** and strengthening my expertise in cloud and security.  
+Previously, I worked as a frontend developer, and I still enjoy building side projects in mobile app development—  
 especially in the areas of language learning, education, and productivity.  
-I'm committed to building practical applications that can make a real impact.
 
 </div>
 
@@ -60,7 +60,7 @@ I'm committed to building practical applications that can make a real impact.
   * Java, Oracle, MySQL, PostgreSQL, MongoDB
 
 * **Tools & Platforms**  
-  * Git, VS Code, Figma, Google Cloud, Docker, Photoshop, MacOS
+  * Git, VS Code, Figma, Google Cloud, Azure, Docker, Photoshop, MacOS
 
 </div>
 
